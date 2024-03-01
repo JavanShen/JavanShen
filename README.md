@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Apine's GitHub stats](http://github-readme-stats-javanshen.vercel.app/api?username=JavanShen)](https://github.com/anuraghazra/github-readme-stats)
+[![Apine's GitHub stats](http://github-readme-stats-javanshen.vercel.app/api?username=JavanShen&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JavanShen/JavanShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

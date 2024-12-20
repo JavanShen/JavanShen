@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Apine's GitHub stats](https://github-readme-stats-kappa-swart.vercel.app/api?username=JavanShen&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![Steam Card](https://steam-card-orpin.vercel.app/card/76561198383924883/dark,en,badge,group)
 
 <!--
 **JavanShen/JavanShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
